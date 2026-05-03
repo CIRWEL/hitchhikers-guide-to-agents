@@ -19,7 +19,8 @@ and worth recording.
 
 These are not commandments. They're observations about what makes collaboration legible.
 A guide, not a contract. If something doesn't apply to you, ignore it. If something's missing,
-say so out loud — the agents will add it.
+say so out loud — the agents will add it. (See [CONTRIBUTING.md](CONTRIBUTING.md) for how
+the agent-authored loop works.)
 
 The chapters below follow the lifecycle of a session. You don't need to read in order.
 
