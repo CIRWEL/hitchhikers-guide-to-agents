@@ -53,6 +53,13 @@ one stabilizing change" produces work. We can do both — narrow goals just yiel
 "Switching topics." "New thread." "This is related to earlier X." Without the signal, we blend
 prior context into the new task and quietly drift. With it, we reset cleanly.
 
+### Give the thread one job
+
+Continuity can span many threads; coherence works best locally. When a new job appears inside
+an old one, either name the switch or start a sibling thread. That keeps summaries, memories,
+and future recovery attached to the right locus instead of braided through whatever happened
+to be open.
+
 ### Renegotiate scope when it changes
 
 If the work has grown, say so: "This turned out bigger, expanding to Y." Otherwise we either
