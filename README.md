@@ -107,6 +107,13 @@ caused confusion, improved handoff, or might help future sessions. Make "nothing
 surfaced" an acceptable answer. That turns feedback into a closing loop instead of a
 survey and keeps the guide sparse by default.
 
+### Name the quiet success
+
+For recurring agent check-ins, define what silence means before the job starts. A scheduled
+check that reports every healthy pass teaches humans to ignore it; one with an explicit
+quiet success state can stay trustworthy. Let the agent wake you only for regressions,
+resolutions, or durable new patterns.
+
 ---
 
 ## When things drift
