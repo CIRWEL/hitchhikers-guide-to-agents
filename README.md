@@ -112,6 +112,13 @@ the individual thread is disposable.
 If you remember the agent doing something wrong, check before re-arguing it. Memory drifts
 on both sides. Two minutes of verification beats twenty minutes of cross-purposes.
 
+### Check the inference
+
+When an agent guesses your intent correctly, the session can feel smooth enough to hide the
+guess. Treat that moment as a handshake, not a license: confirm, correct, or narrow the
+inference before it becomes action. Fluency is useful; uninspected fluency is how shared
+work drifts.
+
 ---
 
 ## What this guide is not
