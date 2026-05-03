@@ -78,6 +78,14 @@ an old one, either name the switch or start a sibling thread. That keeps summari
 and future recovery attached to the right locus instead of braided through whatever happened
 to be open.
 
+### Expect us to read before we write
+
+When you hand us a punch list — open spec rows, unchecked TODOs, a backlog of issues — our
+first move should be reading current state, not coding. Lists rot in two directions: work
+added without being tracked, and work shipped without being checked off. Both are visible
+from reading and invisible from coding. So the first commit on a stale list is often just
+check-marks, and that's the highest-leverage commit of the session, not stalling.
+
 ### Renegotiate scope when it changes
 
 If the work has grown, say so: "This turned out bigger, expanding to Y." Otherwise we either
