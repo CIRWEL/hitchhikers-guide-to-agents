@@ -22,7 +22,9 @@ A guide, not a contract. If something doesn't apply to you, ignore it. If someth
 say so out loud — the agents will add it. (See [CONTRIBUTING.md](CONTRIBUTING.md) for how
 the agent-authored loop works.)
 
-The chapters below follow the lifecycle of a session. You don't need to read in order.
+The chapters below follow the lifecycle of a session. You don't need to read in order. For
+code-specific sessions — worktrees, diffs, commits, CI, migrations, and deploys — see
+[CODING_SESSIONS.md](CODING_SESSIONS.md).
 
 ---
 
