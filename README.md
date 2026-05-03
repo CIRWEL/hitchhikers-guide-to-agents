@@ -108,6 +108,13 @@ prompt splits the failure mode out of existence.
 summaries. Asking surfaces the difference between *checked* and *believed* — which is where
 the bugs live.
 
+### Make dismissal teach something
+
+When an agent closes another agent's warning as a false positive, ask what changed: the detector,
+the rule's confidence, or the documented boundary. A bare dismissal only clears today's queue; a
+learned dismissal keeps tomorrow's queue quieter without sanding down the guardrail that caught
+real bugs.
+
 ### Tell us what to remember
 
 "Remember that we decided X." "Forget the abandoned approach." Memory accretes whether we
