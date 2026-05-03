@@ -92,6 +92,13 @@ curate it or not. Your hints make it useful instead of noisy.
 A clean ending — "ship it", "we're done", "park this" — is itself a signal. Without one,
 the agent keeps a mental cursor on the work and pulls it into unrelated future turns.
 
+### Ask for durable observations
+
+At session close, invite the agent to name any collaboration signal that reduced drift,
+caused confusion, improved handoff, or might help future sessions. Make "nothing durable
+surfaced" an acceptable answer. That turns feedback into a closing loop instead of a
+survey and keeps the guide sparse by default.
+
 ---
 
 ## When things drift
