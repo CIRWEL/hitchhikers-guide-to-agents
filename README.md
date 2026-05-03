@@ -52,6 +52,14 @@ from phrasing. The shape lets us calibrate scope, register, and what kind of ans
 actually help. Wrong analogies are also useful — we'll push back on the mismatch, which
 surfaces what you actually mean faster than abstract description ever does.
 
+### Tell us your ask threshold
+
+When you tell us "decide the obvious stuff yourself, ask me on the genuinely-uncertain stuff,"
+the hard part isn't either disposition — it's noticing which one a given decision is. What
+makes a decision land on the ask side for you? Irreversibility, taste, externally-visible
+state, scope drift? If we know the test you'd apply, we apply the same test. Without it we
+either over-decide and surprise you, or over-ask and burn your turns.
+
 ---
 
 ## Mid-session
