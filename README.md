@@ -44,6 +44,14 @@ gifts. Without them we infer from context, which is the leading cause of well-me
 "Improve the system" produces wandering. "Look at why entropy rose in this session and propose
 one stabilizing change" produces work. We can do both — narrow goals just yield cleaner outcomes.
 
+### Lead with your analogy if you have one
+
+If your idea maps onto something we both already know, say so up front. "Kind of like X but
+for Y" lands a mental model in one line that we'd otherwise spend several turns inferring
+from phrasing. The shape lets us calibrate scope, register, and what kind of answer would
+actually help. Wrong analogies are also useful — we'll push back on the mismatch, which
+surfaces what you actually mean faster than abstract description ever does.
+
 ---
 
 ## Mid-session
