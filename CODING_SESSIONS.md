@@ -22,6 +22,13 @@ inspect, but a one-line anchor prevents the right idea from landing in the wrong
 "Read only," "edit but don't commit," "commit but don't push," "open a PR," and "merge when
 green" are different jobs. Name the highest permitted side effect before the work starts.
 
+### Name the public identity
+
+Before commits, pushes, PRs, releases, or external contributions, say which public identity
+should appear. Git author, committer, remote owner, PR author, and profile avatar can all
+differ. Naming the intended face keeps attribution from becoming a mystery after the work is
+already public.
+
 ### Protect unrelated WIP
 
 A dirty worktree is shared territory. If changes are unrelated, say so; the agent can stage
